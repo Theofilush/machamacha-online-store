@@ -51,7 +51,7 @@ Inspirations:
 
 ## UI Designs
 
-- Figma: <https://www.figma.com/design/-----/machamacha.thandoyo.com>
+- Figma: <https://www.figma.com/design/DXEMQKyhEZSqkAeQkaAN7B/Machamacha-?node-id=0-1&t=A4RayMMOasc7F00g-1>
 
 ### Home Page
 
